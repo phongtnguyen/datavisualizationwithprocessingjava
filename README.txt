@@ -1,0 +1,12 @@
+https://www.kaggle.com/unsdsn/world-happiness
+
+remove
+North Cyprus,Western Europe,66,5.695,0.05635,1.20806,1.07008,0.92356,0.49027,0.1428,0.26169,1.59888
+Kosovo,Central and Eastern Europe,69,5.589,0.05018,0.80148,0.81198,0.63132,0.24749,0.04741,0.2831,2.76579
+not recognized as independent country
+
+change
+Somaliland Region,Sub-Saharan Africa,91,5.057,0.06161,0.18847,0.95152,0.43873,0.46582,0.39928,0.50318,2.11032
+to Somalila
+Palestinian Territories,Middle East and Northern Africa,108,4.715,0.04394,0.59867,0.92558,0.66015,0.24499,0.12905,0.11251,2.04384
+to Palestine
